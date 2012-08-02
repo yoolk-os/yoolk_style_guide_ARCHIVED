@@ -1,0 +1,29 @@
+// Colors
+// -------------------------
+$yoolkGrayDark: #111;
+$yoolkGrayLight: #707070;
+$yoolkBorderColor: #ddd;
+$yoolkNewItemColor: #CC0001;
+
+// Listings
+// --------------------------
+$yoolkListingBackgroundHover: #fff4b3;
+$yoolkHiliteTextColor: $yoolkListingBackgroundHover;
+
+// Scaffolding
+// -------------------------
+$textColor: $yoolkGrayDark;
+
+// Links
+// -------------------------
+$linkColor: $yoolkGrayLight;
+$linkColorHover: $linkColor;
+
+// Navbar
+// -------------------------
+$navbarBackground: $yoolkThemeMainBackground;
+$navbarBackgroundHighlight: $yoolkThemeMainBackground;
+
+// Dropdown
+$dropdownLinkBackgroundHover: #eee;
+$dropdownLinkColorHover: $yoolkGrayDark;
